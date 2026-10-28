@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<!--Ratings are from Google Maps-->
+	<NationalPark Rating="4.9">
+		<Name>Acadia National Park</Name>
+		<Phone>207-288-3338</Phone>
+		<Address>
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Arches National Park</Name>
+		<Address NearestAirport="Canyonlands Field Airport">
+			<Number>2282</Number>
+			<Street>SW Resource Boulevard</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Badlands National Park</Name>
+		<Phone>605-433-5361</Phone>
+		<Address NearestAirport="Wall Municipal Airport">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Big Bend National Park</Name>
+		<Phone>432-477-2251</Phone>
+		<Address NearestAirport="Alpine-Casparis Municipal Airport">
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Biscayne National Park</Name>
+		<Phone>786-335-3620</Phone>
+		<Phone>786-335-3630</Phone>
+		<Address NearestAirport="Miami Homestead General Aviation Airport">
+			<Number>9700</Number>
+			<Street>SW 328th Street</Street>
+			<City>Homestead</City>
+			<State>FL</State>
+			<Zip>33033</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Black Canyon of the Gunnison National Park</Name>
+		<Phone>970-641-2337</Phone>
+		<Address NearestAirport="Montrose Regional Airport">
+			<Number>9800</Number>
+			<Street>Highway 347</Street>
+			<City>Montrose</City>
+			<State>CO</State>
+			<Zip>81401</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Canyonlands National Park</Name>
+		<Name>Canyonlands National Park</Name>
+		<Phone>435-719-2313</Phone>
+		<Phone>435-241-3110</Phone>
+		<Address NearestAirport="Canyonlands Field Airport">
+			<Number>2282</Number>
+			<Street>SW Resource Boulevard</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Capitol Reef National Park</Name>
+		<Phone>435-425-3791</Phone>
+		<Address NearestAirport="Wayne Wonderland Airport">
+			<Number>52</Number>
+			<Street>West Headquarters Drive</Street>
+			<City>Torrey</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Carlsbad Caverns National Park</Name>
+		<Phone>575-236-1309</Phone>
+		<Address NearestAirport="Cavern City Air Terminal">
+			<Number>727</Number>
+			<Street>Carlsbad Caverns Highway</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Channel Islands National Park</Name>
+		<Phone>805-658-5730</Phone>
+		<Phone>805-658-5700</Phone>
+		<Address NearestAirport="Oxnard Airport">
+			<Number>1901</Number>
+			<Street>Spinnaker Drive</Street>
+			<City>Ventura</City>
+			<State>CA</State>
+			<Zip>93001</Zip>
+		</NationalPark>
+</NationalPark>
